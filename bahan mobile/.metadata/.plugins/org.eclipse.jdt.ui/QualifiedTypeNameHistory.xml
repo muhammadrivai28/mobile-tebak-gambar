@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="android.text.InputFilter"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.tebe.tebakgambar.KedelapanActivity"/>
+<fullyQualifiedTypeName name="com.tebe.tebakgambar.KesembilanActivity"/>
+<fullyQualifiedTypeName name="com.tebe.tebakgambar.KeakhirActivity"/>
+<fullyQualifiedTypeName name="com.tebe.tebakgambar.KeempatActivity"/>
+<fullyQualifiedTypeName name="com.tebe.tebakgambar.FinishActivity"/>
+</qualifiedTypeNameHistroy>
